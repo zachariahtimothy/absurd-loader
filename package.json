@@ -1,7 +1,7 @@
 {
   "name": "absurd-loader",
-  "version": "1.0.0",
-  "description": "Webpack loader for absurd js",
+  "version": "0.0.1",
+  "description": "Webpack loader for Absurd js",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -23,5 +23,8 @@
   "homepage": "https://github.com/zachariahtimothy/absurd-loader",
   "devDependencies": {
     "css-loader": "^0.9.1"
+  },
+  "dependencies": {
+    "absurd": "^0.3.34"
   }
 }
