@@ -1,6 +1,6 @@
 {
   "name": "absurd-loader",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Webpack loader for Absurd js",
   "main": "index.js",
   "scripts": {
@@ -22,12 +22,12 @@
   },
   "homepage": "https://github.com/zachariahtimothy/absurd-loader",
   "peerDependencies": {
-    "absurd": "^0.3.34"
-  },
-  "devDependencies": {
+    "absurd": "^0.3.34",
     "css-loader": "^0.9.1"
   },
-  "dependencies": {
+  "devDependencies": {
   },
+  "dependenpmncies": {
+  }
 
 }
