@@ -22,8 +22,7 @@
   },
   "homepage": "https://github.com/zachariahtimothy/absurd-loader",
   "peerDependencies": {
-    "absurd": "^0.3.34",
-    "css-loader": "^0.9.1"
+    "absurd": "^0.3.34"
   },
   "devDependencies": {
   },
